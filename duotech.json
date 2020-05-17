@@ -1,0 +1,16 @@
+{
+  "location": {
+    "lat": -77.2273128,
+    "lng": 38.9151944
+  },
+  "accuracy": 50,
+  "name": "Duotech Academy",
+  "phone_number":  "(571) 295-4555",
+  "address": "9999 Leesburg Pike STE 300, Vienna, VA 22182",
+  "types": [
+    "academy",
+    "bootcamp"
+  ],
+  "website": "duotech.io",
+  "language": "English"
+}
